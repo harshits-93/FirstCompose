@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">FirstComposeApp</string>
     <string name="title_activity_images">ImagesActivity</string>
+    <string name="title_activity_state_basics">StateBasicsActivity</string>
+    <string name="title_activity_unit_converter">UnitConverterActivity</string>
+    <string name="title_activity_lists_and_grid">ListsAndGridActivity</string>
 </resources>
